@@ -1,0 +1,23 @@
+.game-info{
+    margin-top: 2rem;
+}
+.move-history-btn{
+    background-color: black;
+    font-size: 30px;
+    font-weight: 100;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border-radius: 2rem;
+    border-style: solid;
+    cursor: pointer;
+    margin-bottom: 3px;
+
+}
+
+li{
+    list-style-type: none;
+}
+
+.history-text{
+    font-size: 4rem;
+}

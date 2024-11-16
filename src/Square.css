@@ -1,0 +1,28 @@
+.square{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    border: 1px solid transparent;
+    font-size: 3rem;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    border-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+      
+}
+
+
+.square:hover {
+    border-color: #646cff;
+  }
+.square:focus,
+.square:focus-visible {
+    outline: 10px auto -webkit-focus-ring-color;
+  }
